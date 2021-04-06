@@ -1,0 +1,57 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.button{
+   background-color: lightblue;
+   color: white;
+   width: 100%; 
+   height: 50px;
+   border-color: lightblue;
+   border-width: 1px;
+   font-size: 20px;
+}
+
+canvas{
+    box-shadow: 3px, 3px, 3px grey;
+    border-radius: 10px;
+}
+
+.footer{
+    background-color: grey;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    height: 25px;
+    box-shadow: 3px, 3px, 3px grey;
+}
+
+.bobo{
+background-color: red;
+height: 30px;
+width: 50px;
+border-radius: 10px;
+border-color: red;
+padding-right: 60px;
+}
+
+#cool{
+    float: right;
+    margin-left: 50px;
+}
